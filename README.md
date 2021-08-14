@@ -1,7 +1,7 @@
 # ksi-anwser
 
-- lib 逻辑代码
-- test 单测文件
+- lib/ 逻辑代码
+- test/ 单测文件
 
 ## 1.安装依赖
 
