@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "lib": [
+    ],
+    "types": ["node", "jest"]
+  },
+  "include": [
+    "./types/global.d.ts",
+    "./lib",
+    "./test"
+  ]
+}
